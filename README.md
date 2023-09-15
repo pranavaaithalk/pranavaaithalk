@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pranava Aithal K, currently pursuing my B.Tech from NMAMIT.
+- 👀 I’m interested in coding and Drone building.
+- 🌱 I’m currently learning java, python and data structure.
+- 📫 You can contact me through Instagram @_pranava_aithal.
